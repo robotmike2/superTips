@@ -10,7 +10,7 @@
 import UIKit
 
 struct MyVariables {
-    static var amt = 1.23   // bill amount w/ temp value
+    static var  = 1.23   // bill amount w/ temp value
 }
 
 class ViewController: UIViewController {
